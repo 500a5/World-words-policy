@@ -8,7 +8,7 @@ This repository contains two key documents for the **World Words** application:
 2. **Terms of Use**  
    This document outlines the guidelines and conditions for using the application.
 
-3. **Instructions for Deleting an Account**
+3. **Instructions for Deleting an Account**  
    This file contains instructions for deleting a user account.
 
 These documents are essential to ensure transparency and compliance with data protection regulations.
